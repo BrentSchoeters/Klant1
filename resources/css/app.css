@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+@layer base {
+    h1 {
+        @apply text-4xl;
+    }
+
+    h2 {
+        @apply text-2xl my-2;
+    }
+
+    h3 {
+        @apply text-xl italic my-2;
+    }
+
+    .logo-container {
+        margin-top: -120px;
+    }
+
+}
