@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <x-layout.favicons/>
     <meta name="description" content="{{ $description ?? 'Welcome to the KVV Rauw' }}">
-    <title>KVV WK: {{ $title ?? 'Homepage' }}</title>
+    <title>KVV WO: {{ $title ?? 'Homepage' }}</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     @livewireStyles
