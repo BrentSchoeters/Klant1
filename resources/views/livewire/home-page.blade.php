@@ -2,7 +2,7 @@
     <div class="container mx-auto px-4">
         <section class="flex items-center justify-center my-10">
             <div class="text-center">
-                <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-2 text-gray-800">Welkom bij KVV Rauw</h1>
+                <h1 class="text-4xl md:text-6xl font-bold leading-tight mb-2 text-gray-800">Welkom bij KVV voet</h1>
                 <p class="text-lg md:text-xl leading-normal mt-2 text-gray-600">Welkom op de officiële webpagina van
                     KVV Rauw Sport Mol!</p>
             </div>
